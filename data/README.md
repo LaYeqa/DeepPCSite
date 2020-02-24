@@ -4,4 +4,4 @@
 - In the top right corner, click EXPORT and under MOLECULAR STRUCTURES, click SITES. The file should begin to download.
 - Move the downloaded file into the DeepPCSite/scpdb directory for full functionality.
 
-The total download may take some time as the mol2 file along is nearly 15GB in size.
+The total download may take some time as the mol2 file is large in size.
