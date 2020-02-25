@@ -5,7 +5,7 @@ The goals of DeepPCSite are to improve on the following:
 - using a protein's spatial information directly without voxelizing the input to reduce data sparsity
 - finding lower dimensional representations for proteins and discovering which features are most important for a region to be a functional site
 
-# HOW IT WORKS
+# How It Works
 ## Proteins as Point Clouds
 DeepPCSite embeds protein data in their most unprocessed state: 3D point-clouds. Each atom represents a point in the cloud. These point-clouds are stored as graph adjacency matrices, where each atom is a vertex whose k-nearest neighbors in space constitute its neighborhood. Each vertex contains a series of features, which can be thought of as signals along the graph. 
 ## Protein Autoencoders
