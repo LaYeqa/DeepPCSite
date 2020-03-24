@@ -1,6 +1,7 @@
+import utils
+
 import pandas as pd 
 import shutil
-import utils
 import csv
 import re
 
